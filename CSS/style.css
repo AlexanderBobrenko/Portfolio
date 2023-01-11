@@ -334,14 +334,15 @@ header span{
     font-weight: 400;
     font-size: 20px;
     text-indent: 20px;
+}
+textarea{
     padding-top: 10px;
 }
-::placeholder {
+textarea::placeholder {
     color:#bdae82;
     font-size: 20px;
     height: 40px;
     width: 204px;
-    padding-top: 10px;
 }
 ::-moz-placeholder          {
     color:#bdae82;
@@ -350,7 +351,6 @@ header span{
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 20px;
-    padding-top: 10px;
 }
 /* Firefox 19+ */
 
@@ -361,7 +361,7 @@ header span{
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 20px;
-    padding-top: 10px;
+
 }
 /* Firefox 18- */
 
@@ -372,7 +372,7 @@ header span{
     font-size: 20px;
     height: 40px;
     width: 204px;
-    padding-top: 10px;
+
 }
 
 input, textarea{
