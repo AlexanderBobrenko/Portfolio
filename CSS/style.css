@@ -361,7 +361,6 @@ textarea::placeholder {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 20px;
-
 }
 /* Firefox 18- */
 
@@ -372,7 +371,6 @@ textarea::placeholder {
     font-size: 20px;
     height: 40px;
     width: 204px;
-
 }
 
 input, textarea{
